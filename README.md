@@ -7,5 +7,5 @@ A tool for build a booteable image of Panwah
 * mkiso
 
 ## License
-WahBuildBoot is licensed under GNU GENERAL PUBLIC LICENSE version 3 - see the LICENSE file for details.
+WahBuildBoot is licensed under GNU GENERAL PUBLIC LICENSE version 3 - see the LICENSE file for details. <br>
 © 2024 Isaac David Orozco Delgado
